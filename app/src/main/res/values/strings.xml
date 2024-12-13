@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pertemuan-3</string>
+    <string name="song_name">Wali Band</string>
+    <string name="artist">Aku Bukan Bang Toyib</string>
+    <string name="album_name">Nenekku Pahlawanku</string>
+    <string name="album_cover">Album Cover</string>
+    <string name="play_button">Play Button</string>
+    <string name="prev_button">Previous Button</string>
+    <string name="next_button">Next Button</string>
+    <string name="back_button">Back Button</string>
+    <string name="menu_button">Menu Button</string>
+</resources>
